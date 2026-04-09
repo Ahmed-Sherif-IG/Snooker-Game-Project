@@ -70,13 +70,13 @@ Different gameplay setups are managed by a dedicated mode system, allowing easy 
 ## Game Modes
 
 ### Standard Mode
-<img src="mode-standard.png" width="500"/>
+<img src="ScreenShots/mode-standard.png" width="500"/>
 
 ### Challenge Mode
-<img src="mode-challenge.png" width="500"/>
+<img src="ScreenShots/mode-challenge.png" width="500"/>
 
 ### Training Mode
-<img src="mode-training.png" width="500"/>
+<img src="ScreenShots/mode-training.png" width="500"/>
 
 ## How to Run
 
